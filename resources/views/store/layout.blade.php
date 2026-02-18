@@ -97,7 +97,7 @@
         /* FOOTER */
         /* ========================= */
         .footer{
-            background:#f5f5f5;
+            background:#394e12;
             text-align:center;
             padding:20px;
             margin-top:auto;
@@ -112,8 +112,8 @@
         /* DARK MODE */
         /* ========================= */
         body.dark{
-            background:#121212;
-            color:#eee;
+            background:#a82801e1;
+            color:#000000;
         }
 
         body.dark .navbar{
